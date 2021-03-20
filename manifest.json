@@ -1,0 +1,23 @@
+{
+    "dir": "ltr",
+    "lang": "tl",
+    "name": "MapApp",
+    "scope": "/41/",
+    "display": "minimal-ui",
+    "start_url": "https://proxy-tps-m1if13-2019.univ-lyon1.fr/41/",
+    "short_name": "MapApp",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/src/assets/716b089d-1907-f4e9-2e60-b23baa9277e4.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        }
+    ],
+    "generated": true
+}
